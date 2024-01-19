@@ -6,7 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-marques-581167240/)
 </span>
 
-## Feliz Por ver Você Aqui!  ![visitors](https://visitor-badge.glitch.me/badge?page_id=IKamuI)
+## Feliz Por ver Você Aqui! 
+
 
 <div align="center">
 
@@ -33,8 +34,8 @@ Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aprov
 
 <br />
 
-- 🛠 &nbsp; Estou Trabalhando atualmente com Javascript, CSS e Html.<br />
-- 👦🏽‍💻 &nbsp; Meus Canais de Aprendizagem Kenzie Academy, RocketSeat,Origamid.<br/>
+- 🛠 &nbsp; Estou Trabalhando atualmente com PHP,LARAVEL,TAILWIND e VUEJS.<br />
+- 👦🏽‍💻 &nbsp; Meus Canais de Aprendizagem Kenzie Academy, RocketSeat,Origamid. EspecializaTI<br/>
 - 📫 &nbsp; Contate-me: pedroleagueartmarques@gmail.com
 
 <br />
