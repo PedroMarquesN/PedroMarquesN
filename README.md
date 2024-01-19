@@ -73,7 +73,7 @@ Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aprov
 <code><img height="35" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
 <code><img height="35" src="https://img.icons8.com/ios-filled/50/000000/github.png"/></code>
 <code><img height="35" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"/></code>
-<code><img height="35" src="https://img.icons8.com/dusk/64/000000/php-logo.png" alt="php"></code>
+<code><img height="35" src="[https://img.icons8.com/dusk/64/000000/php-logo.png](https://cdn-icons-png.flaticon.com/128/5968/5968332.png)" alt="php"></code>
 <code><img height="35" src="https://img.icons8.com/ios-filled/50/000000/laravel.png" alt="laravel"></code>
 <code><img height="35" src="https://vuejs.org/images/logo.png" alt="vuejs"></code>
 
