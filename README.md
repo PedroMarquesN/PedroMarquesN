@@ -19,7 +19,7 @@
 
 <p align="center">
 
-Sou Pedro Henrique Marques,<strong>Tecnologista e autodidata🤗. Estudante da Kenzie Academy</strong> <br />
+Sou Pedro Henrique Marques,<strong>Tecnologista e autodidata🤗. </strong> <br />
 <strong>Desenvolvedor de Software</strong>,Tenho uma atração pelo <strong> Desenvolvimento WEB 🖥</strong><br />
 Aberto para conhecer novas pessoas e culturas, ganhar novas Habilidades para crescimento pessoal/profissional <br />
 Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aproveitá-las para resolver problemas da vida real ✨.
@@ -34,8 +34,8 @@ Com o foco no auto-desenvolvimento🏆. Adoro explorar novas tecnologias e aprov
 
 <br />
 
-- 🛠 &nbsp; Estou Trabalhando atualmente com PHP,LARAVEL,TAILWIND e VUEJS.<br />
-- 👦🏽‍💻 &nbsp; Meus Canais de Aprendizagem Kenzie Academy, RocketSeat,Origamid. EspecializaTI<br/>
+- 🛠 &nbsp; Estou Trabalhando atualmente com REACT, C# , PHP,LARAVEL,TAILWIND e VUEJS.<br />
+- 👦🏽‍💻 &nbsp; Meus Canais de Aprendizagem Kenzie Academy, RocketSeat,Origamid. EspecializaTI, FULLCYCLE<br/>
 - 📫 &nbsp; Contate-me: pedroleagueartmarques@gmail.com
 
 <br />
